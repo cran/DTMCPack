@@ -1,0 +1,17 @@
+8f77636ca446eeb3afba6fb9fccdf02d *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+54e11b5a4f1ce5b8ad0c78649965fada *R/DTMC.R
+e48997ec8a9071feb7e82dd9fb610a70 *R/FPTime.R
+94b8a49ab1a84445ccabab492af77590 *R/MultDTMC.R
+30ef09cdfbcc9b931413ae4fed9f8409 *R/statdistr.R
+816cd244330bad527932281db57c4b1b *data/gr.rda
+a50f099941ec35037d005f90d36a0ed6 *data/hh.rda
+bd09d585676d63c7eb3ebbd85876715b *data/id.rda
+b1a1aa6d2b4f42ff36e367356be712d5 *man/DTMC.Rd
+327313c1331cfd8524bb614c2182271a *man/DTMCPack-package.Rd
+4f274fdc0a0fbe3899b2082a18a2c33c *man/FPTime.Rd
+4451d91ae1f1a4eb94ead4815188251d *man/MultDTMC.Rd
+3ccc9999a200452d1866f879e6881d32 *man/gr.Rd
+508f3e102f1c8dcb28ca3fd172535edc *man/hh.Rd
+4033df876bd139d9580fdd4dab4122da *man/id.Rd
+5b099ed6929b9e19de77b0ee458449fc *man/statdistr.Rd
